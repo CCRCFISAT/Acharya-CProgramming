@@ -5,7 +5,11 @@ This repo contains contributions to project Acharya, an Open Smart Education Ini
 
 # How to make Contributions
 
-You can submit Jupyter notebooks that illustrates the working of python programs. Please check the topics to be covered. However, you do not have to restrict the submissions to the list of topics to be covered. Make sure to include figures and videos in your notebook. 
+You can submit Jupyter notebooks that illustrates the working of python programs. Please check the topics to be covered. However, you do not have to restrict the submissions to the list of topics to be covered. Make sure to include figures and videos in your notebook.
+
+For those who are confused as to how jupyter notebooks are possible for c and c++, please refer to jupyter-xeus/xeus-cling, which is a jupyter kernel for c/c++.
+
+https://github.com/jupyter-xeus/xeus-cling
 
 
 
