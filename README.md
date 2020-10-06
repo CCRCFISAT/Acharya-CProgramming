@@ -9,6 +9,19 @@ You can submit Jupyter notebooks that illustrates the working of python programs
 
 For those who are confused as to how jupyter notebooks are possible for c and c++, please refer to jupyter-xeus/xeus-cling, which is a jupyter kernel for c/c++.
 
+If you have miniconda installed, do the following:
+```
+conda create cling
+conda activate cling
+```
+
+After this, you'd be with a totally new env just for C/C++ notebooks called cling. To install the required kernel, in this new env:
+```
+conda install xeus-cling -c conda-forge
+```
+
+Now you have a jupyter notebook kernel that can handle c/c++ code.
+
 https://github.com/jupyter-xeus/xeus-cling
 
 
